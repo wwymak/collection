@@ -1,0 +1,25 @@
+{
+  "name": "collection",
+  "version": "1.0.0",
+  "description": "The Tate Collection ===================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwymak/collection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wwymak/collection/issues"
+  },
+  "homepage": "https://github.com/wwymak/collection#readme",
+  "dependencies": {
+    "JSONStream": "^1.1.1",
+    "d3": "^3.5.16",
+    "mongodb": "^2.1.10",
+    "promised-mongo": "^1.2.0"
+  }
+}
